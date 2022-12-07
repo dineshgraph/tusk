@@ -4,6 +4,7 @@ pasta
 curd rice
 KFC
 
-
+beans
+Pizza
 
 Thanks you 
